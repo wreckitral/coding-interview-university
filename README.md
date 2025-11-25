@@ -594,7 +594,8 @@ Well, that's about enough of that.
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
 
-*i dont think i need to do this, i took algorithm analysis class already, we saw Big-O notation, or in indonesian notasi asimtotik*
+> MY NOTE:
+> *i dont think i need to do this, i took algorithm analysis class already, we saw Big-O notation, or in indonesian notasi asimtotik*
 
 **[⬆ back to top](#table-of-contents)**
 
