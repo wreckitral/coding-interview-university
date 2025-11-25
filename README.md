@@ -347,7 +347,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
     - An insider’s perspective on what interviewers are truly looking for and why.
     - 101 real coding interview problems with detailed solutions.
     - Intuitive explanations that guide you through each problem as if you were solving it in a live interview.
-    - 1000+ diagrams to illustrate key concepts and patterns.	
+    - 1000+ diagrams to illustrate key concepts and patterns.
 
 ### C
 
@@ -577,22 +577,24 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+- [x] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 Well, that's about enough of that.
 
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
+
+*i dont think i need to do this, i took algorithm analysis class already, we saw Big-O notation, or in indonesian notasi asimtotik*
 
 **[⬆ back to top](#table-of-contents)**
 
